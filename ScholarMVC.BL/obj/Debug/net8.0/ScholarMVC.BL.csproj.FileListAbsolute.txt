@@ -1,0 +1,15 @@
+C:\Users\II Novbe\source\repos\ScholarMVC\ScholarMVC.BL\bin\Debug\net8.0\ScholarMVC.BL.deps.json
+C:\Users\II Novbe\source\repos\ScholarMVC\ScholarMVC.BL\bin\Debug\net8.0\ScholarMVC.BL.dll
+C:\Users\II Novbe\source\repos\ScholarMVC\ScholarMVC.BL\bin\Debug\net8.0\ScholarMVC.BL.pdb
+C:\Users\II Novbe\source\repos\ScholarMVC\ScholarMVC.BL\bin\Debug\net8.0\ScholarMVC.DAL.dll
+C:\Users\II Novbe\source\repos\ScholarMVC\ScholarMVC.BL\bin\Debug\net8.0\ScholarMVC.DAL.pdb
+C:\Users\II Novbe\source\repos\ScholarMVC\ScholarMVC.BL\obj\Debug\net8.0\ScholarMVC.BL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\ScholarMVC\ScholarMVC.BL\obj\Debug\net8.0\ScholarMVC.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\ScholarMVC\ScholarMVC.BL\obj\Debug\net8.0\ScholarMVC.BL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\ScholarMVC\ScholarMVC.BL\obj\Debug\net8.0\ScholarMVC.BL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\ScholarMVC\ScholarMVC.BL\obj\Debug\net8.0\ScholarMVC.BL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\ScholarMVC\ScholarMVC.BL\obj\Debug\net8.0\ScholarM.0B45F018.Up2Date
+C:\Users\II Novbe\source\repos\ScholarMVC\ScholarMVC.BL\obj\Debug\net8.0\ScholarMVC.BL.dll
+C:\Users\II Novbe\source\repos\ScholarMVC\ScholarMVC.BL\obj\Debug\net8.0\refint\ScholarMVC.BL.dll
+C:\Users\II Novbe\source\repos\ScholarMVC\ScholarMVC.BL\obj\Debug\net8.0\ScholarMVC.BL.pdb
+C:\Users\II Novbe\source\repos\ScholarMVC\ScholarMVC.BL\obj\Debug\net8.0\ref\ScholarMVC.BL.dll

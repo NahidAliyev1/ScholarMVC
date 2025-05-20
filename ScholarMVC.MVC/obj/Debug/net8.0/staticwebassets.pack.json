@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\Admin\\assets\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\css\\templatemo-scholar.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-scholar.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\banner-item-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-item-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\banner-item-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-item-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\banner-item-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-item-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\contact-dec-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-dec-01.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\contact-dec-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-dec-02.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\course-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\course-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\course-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\course-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\course-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\course-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\event-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\event-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\event-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\member-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\member-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\member-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\member-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\member-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\member-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\member-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\member-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\service-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service-01.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\service-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service-02.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\service-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service-03.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\images\\testimonial-author.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\assets\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\assets\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\assets\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\assets\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\js\\counter.js",
+      "PackagePath": "staticwebassets\\assets\\js\\counter.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\js\\isotope.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\uploadedImages\\course-011715993b-7057-4633-8a62-341e5809c1bf.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\course-011715993b-7057-4633-8a62-341e5809c1bf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\uploadedImages\\course-0117690222-d6b8-4a24-a336-6dd36f605a63.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\course-0117690222-d6b8-4a24-a336-6dd36f605a63.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\uploadedImages\\course-0144498a28-e50a-433e-be4e-f8959a468be9.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\course-0144498a28-e50a-433e-be4e-f8959a468be9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\uploadedImages\\course-014ce0e78e-33ca-4448-a64f-02168666d197.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\course-014ce0e78e-33ca-4448-a64f-02168666d197.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\uploadedImages\\course-0175f777a3-5fbc-47c8-bb2f-0bdd70ddac63.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\course-0175f777a3-5fbc-47c8-bb2f-0bdd70ddac63.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\uploadedImages\\course-018910974f-8073-41ec-9b50-d9a63d6ae361.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\course-018910974f-8073-41ec-9b50-d9a63d6ae361.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\uploadedImages\\course-01b1f5736d-604b-4bc1-95d8-87430fe4af6a.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\course-01b1f5736d-604b-4bc1-95d8-87430fe4af6a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\uploadedImages\\recep42b3cdaa-a630-4036-95df-f4b65eb684e0.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\recep42b3cdaa-a630-4036-95df-f4b65eb684e0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\uploadedImages\\recep5653eb71-cc7f-4685-9ba5-bdb8c09ec250.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\recep5653eb71-cc7f-4685-9ba5-bdb8c09ec250.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\uploadedImages\\recep79b31a4d-54ec-4eb2-bd24-519e383ffd2b.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\recep79b31a4d-54ec-4eb2-bd24-519e383ffd2b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\uploadedImages\\recep99f83530-1518-4ae4-ada8-b7f2196e3d83.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\recep99f83530-1518-4ae4-ada8-b7f2196e3d83.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\uploadedImages\\recepac3c1b38-0acc-4e2d-ad0b-3199fbefd543.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\recepac3c1b38-0acc-4e2d-ad0b-3199fbefd543.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\uploadedImages\\recepb337904d-629d-4ea5-823e-c41f22c7fd3d.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\recepb337904d-629d-4ea5-823e-c41f22c7fd3d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\uploadedImages\\recepc948ffa7-dc76-4de7-a59d-7cedaa23e3d8.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\recepc948ffa7-dc76-4de7-a59d-7cedaa23e3d8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\uploadedImages\\recepe9622314-a0bc-448f-8733-e496d037a3c9.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\recepe9622314-a0bc-448f-8733-e496d037a3c9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\uploadedImages\\recepf03860ef-3032-4f77-be86-e970c633516a.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\recepf03860ef-3032-4f77-be86-e970c633516a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\uploadedImages\\recepf962c5fe-7899-4b5c-a39e-638f57eda386.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\recepf962c5fe-7899-4b5c-a39e-638f57eda386.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\wwwroot\\assets\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ScholarMVC.MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ScholarMVC.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ScholarMVC.MVC.props",
+      "PackagePath": "build\\ScholarMVC.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ScholarMVC.MVC.props",
+      "PackagePath": "buildMultiTargeting\\ScholarMVC.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ScholarMVC.MVC.props",
+      "PackagePath": "buildTransitive\\ScholarMVC.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

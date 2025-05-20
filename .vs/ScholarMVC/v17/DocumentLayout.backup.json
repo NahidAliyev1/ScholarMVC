@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholarmvc.mvc\\areas\\admin\\views\\scholar\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\areas\\admin\\views\\scholar\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholarmvc.mvc\\areas\\admin\\views\\scholar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\areas\\admin\\views\\scholar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB2D96F-023E-4A93-993B-CFB05EE61CC4}|ScholarMVC.BL\\ScholarMVC.BL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholarmvc.bl\\viewmodels\\scholarvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB2D96F-023E-4A93-993B-CFB05EE61CC4}|ScholarMVC.BL\\ScholarMVC.BL.csproj|solutionrelative:scholarmvc.bl\\viewmodels\\scholarvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholarmvc.mvc\\areas\\admin\\controllers\\scholarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\areas\\admin\\controllers\\scholarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholarmvc.mvc\\areas\\admin\\views\\scholar\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\areas\\admin\\views\\scholar\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB2D96F-023E-4A93-993B-CFB05EE61CC4}|ScholarMVC.BL\\ScholarMVC.BL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholarmvc.bl\\services\\scholarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB2D96F-023E-4A93-993B-CFB05EE61CC4}|ScholarMVC.BL\\ScholarMVC.BL.csproj|solutionrelative:scholarmvc.bl\\services\\scholarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholarmvc.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholarmvc.mvc\\areas\\admin\\views\\scholar\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\areas\\admin\\views\\scholar\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55C42AF-F5C0-46E7-BE77-4B6590EAB178}|ScholarMVC.DAL\\ScholarMVC.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholarmvc.dal\\models\\scholar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55C42AF-F5C0-46E7-BE77-4B6590EAB178}|ScholarMVC.DAL\\ScholarMVC.DAL.csproj|solutionrelative:scholarmvc.dal\\models\\scholar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholarmvc.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholarmvc.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholarmvc.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholarmvc.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholarmvc.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholarmvc.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholarmvc.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB2D96F-023E-4A93-993B-CFB05EE61CC4}|ScholarMVC.BL\\ScholarMVC.BL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholarmvc.bl\\exceptions\\scholarexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB2D96F-023E-4A93-993B-CFB05EE61CC4}|ScholarMVC.BL\\ScholarMVC.BL.csproj|solutionrelative:scholarmvc.bl\\exceptions\\scholarexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.DAL\\Migrations\\20250520134811_CreateScholarTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScholarMVC.DAL\\Migrations\\20250520134811_CreateScholarTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55C42AF-F5C0-46E7-BE77-4B6590EAB178}|ScholarMVC.DAL\\ScholarMVC.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholarmvc.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55C42AF-F5C0-46E7-BE77-4B6590EAB178}|ScholarMVC.DAL\\ScholarMVC.DAL.csproj|solutionrelative:scholarmvc.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\scholarmvc\\scholarmvc.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A27BA86-8B3E-4B32-9912-E63699DFDAFB}|ScholarMVC.MVC\\ScholarMVC.MVC.csproj|solutionrelative:scholarmvc.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScholarVM.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.BL\\ViewModels\\ScholarVM.cs",
+              "RelativeDocumentMoniker": "ScholarMVC.BL\\ViewModels\\ScholarVM.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.BL\\ViewModels\\ScholarVM.cs",
+              "RelativeToolTip": "ScholarMVC.BL\\ViewModels\\ScholarVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:48:23.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Scholar\\Info.cshtml",
+              "RelativeDocumentMoniker": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Scholar\\Info.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Scholar\\Info.cshtml",
+              "RelativeToolTip": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Scholar\\Info.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T14:45:11.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Scholar\\Update.cshtml",
+              "RelativeDocumentMoniker": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Scholar\\Update.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Scholar\\Update.cshtml",
+              "RelativeToolTip": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Scholar\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T14:39:37.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScholarController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Areas\\Admin\\Controllers\\ScholarController.cs",
+              "RelativeDocumentMoniker": "ScholarMVC.MVC\\Areas\\Admin\\Controllers\\ScholarController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Areas\\Admin\\Controllers\\ScholarController.cs",
+              "RelativeToolTip": "ScholarMVC.MVC\\Areas\\Admin\\Controllers\\ScholarController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwCIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:55:31.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Scholar\\Create.cshtml",
+              "RelativeDocumentMoniker": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Scholar\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Scholar\\Create.cshtml*",
+              "RelativeToolTip": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Scholar\\Create.cshtml*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T14:11:01.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ScholarMVC.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ScholarMVC.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T14:00:12.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAmwNcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T13:59:20.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Scholar\\Index.cshtml",
+              "RelativeDocumentMoniker": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Scholar\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Areas\\Admin\\Views\\Scholar\\Index.cshtml",
+              "RelativeToolTip": "ScholarMVC.MVC\\Areas\\Admin\\Views\\Scholar\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwCAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T13:56:43.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScholarService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.BL\\Services\\ScholarService.cs",
+              "RelativeDocumentMoniker": "ScholarMVC.BL\\Services\\ScholarService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.BL\\Services\\ScholarService.cs",
+              "RelativeToolTip": "ScholarMVC.BL\\Services\\ScholarService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAcwFQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:49:10.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ScholarMVC.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ScholarMVC.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAANIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T13:35:06.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScholarMVC.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScholarMVC.MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-20T13:54:54.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Scholar.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.DAL\\Models\\Scholar.cs",
+              "RelativeDocumentMoniker": "ScholarMVC.DAL\\Models\\Scholar.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.DAL\\Models\\Scholar.cs",
+              "RelativeToolTip": "ScholarMVC.DAL\\Models\\Scholar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:44:52.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScholarException.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.BL\\Exceptions\\ScholarException.cs",
+              "RelativeDocumentMoniker": "ScholarMVC.BL\\Exceptions\\ScholarException.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.BL\\Exceptions\\ScholarException.cs",
+              "RelativeToolTip": "ScholarMVC.BL\\Exceptions\\ScholarException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:52:00.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ScholarMVC.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ScholarMVC.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:34:56.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ScholarMVC.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ScholarMVC.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T13:39:30.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ScholarMVC.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ScholarMVC.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T13:39:55.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250520134811_CreateScholarTable.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.DAL\\Migrations\\20250520134811_CreateScholarTable.cs",
+              "RelativeDocumentMoniker": "ScholarMVC.DAL\\Migrations\\20250520134811_CreateScholarTable.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.DAL\\Migrations\\20250520134811_CreateScholarTable.cs",
+              "RelativeToolTip": "ScholarMVC.DAL\\Migrations\\20250520134811_CreateScholarTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:48:11.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "ScholarMVC.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\appsettings.json",
+              "RelativeToolTip": "ScholarMVC.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T13:35:29.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ScholarMVC.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "ScholarMVC.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:40:19.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "ScholarMVC.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ScholarMVC\\ScholarMVC.MVC\\Program.cs",
+              "RelativeToolTip": "ScholarMVC.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:33:40.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
